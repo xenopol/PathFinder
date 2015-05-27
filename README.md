@@ -10,3 +10,5 @@ Android application for sending your location to a friend
 
 ##Solution specification - Concept introduction
   Path Finder is an app that helps you locate your friends. It will have a simple button (“Send location”) that will allow the user to send his Google Maps location to any friend by SMS, Facebook or any other available method.
+  
+![alt tag](https://raw.githubusercontent.com/xenopol/PathFinder/master/app/src/main/res/img/body.png)
